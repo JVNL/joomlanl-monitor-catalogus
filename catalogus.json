@@ -1,0 +1,78 @@
+{
+    "bijgewerkt_op": "2026-08-06T07:55:37Z",
+    "bijgewerkt_door": "YndiMonitor",
+    "extensies": [
+        {
+            "sleutel": "admintools",
+            "label": "Admin Tools",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
+        },
+        {
+            "sleutel": "akeeba",
+            "label": "Akeeba Backup",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
+        },
+        {
+            "sleutel": "component_com_accordeonmenuck",
+            "label": "Accordeon Menu CK",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
+        },
+        {
+            "sleutel": "component_com_jdownloads",
+            "label": "jDownloads",
+            "manifest_pad": null,
+            "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
+        },
+        {
+            "sleutel": "component_com_pagebuilderck",
+            "label": "Pagebuilder CK",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
+        },
+        {
+            "sleutel": "component_com_slideshowck",
+            "label": "Slideshow CK",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomlack.fr/slideshowck_light_update.xml"
+        },
+        {
+            "sleutel": "jce",
+            "label": "JCE",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
+        },
+        {
+            "sleutel": "module_mod_ruxin_news",
+            "label": "Ruxin News",
+            "manifest_pad": null,
+            "update_feed_url": "http://www.ruxincode.com/update/ruxin_news.xml"
+        },
+        {
+            "sleutel": "package_pkg_baforms",
+            "label": "BaForms",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.balbooa.com/updates/forms/joomla_forms_update.xml"
+        },
+        {
+            "sleutel": "package_pkg_bagallery",
+            "label": "BaGallery",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
+        },
+        {
+            "sleutel": "package_pkg_icagenda",
+            "label": "iCagenda",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.joomlic.com/icupdates/icagendapro.xml"
+        },
+        {
+            "sleutel": "plugin_jce",
+            "label": "JCE",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
+        }
+    ]
+}
