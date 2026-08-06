@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-06T10:34:24Z",
-    "bijgewerkt_door": "YndiMonitor",
+    "bijgewerkt_op": "2026-08-06T10:55:38Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -21,16 +21,16 @@
             "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
         },
         {
-            "sleutel": "component_com_admintools",
-            "label": "Admin Tools",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
-        },
-        {
             "sleutel": "component_com_jdownloads",
             "label": "jDownloads",
             "manifest_pad": null,
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
+        },
+        {
+            "sleutel": "component_com_jshopping",
+            "label": "jshopping",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
         },
         {
             "sleutel": "component_com_pagebuilderck",
@@ -147,10 +147,28 @@
             "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
         },
         {
+            "sleutel": "plugin_ospamanot",
+            "label": "plg_system_ospamanot",
+            "manifest_pad": null,
+            "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/plg_system_ospamanot"
+        },
+        {
             "sleutel": "plugin_responsive_tables",
             "label": "Responsive Tables",
             "manifest_pad": null,
             "update_feed_url": "https://web-eau.net/files/responsive-tables/responsive-tables.xml"
+        },
+        {
+            "sleutel": "plugin_rsform",
+            "label": "RSForm! Pro",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
+        },
+        {
+            "sleutel": "template_zmcd",
+            "label": "t4_bs5_blank",
+            "manifest_pad": null,
+            "update_feed_url": "http://update.joomlart.com/service/tracking/j31/tpl_t4_bs5_blank.xml"
         }
     ]
 }
