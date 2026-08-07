@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-07T05:23:47Z",
-    "bijgewerkt_door": "YndiMonitor",
+    "bijgewerkt_op": "2026-08-07T08:57:40Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -45,12 +45,6 @@
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
         },
         {
-            "sleutel": "component_com_rsform",
-            "label": "RSForm! Pro",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
-        },
-        {
             "sleutel": "component_com_slideshowck",
             "label": "Slideshow CK",
             "manifest_pad": null,
@@ -67,6 +61,12 @@
             "label": "AcyMailing Module",
             "manifest_pad": null,
             "update_feed_url": "https://www.acyba.com/index.php?option=com_updateme&ctrl=updatexml&component=acymailing&version=X&level=Enterprise&li=9d1d31e3799b85e967f71ade14a71d97ceeed870"
+        },
+        {
+            "sleutel": "module_mod_bgmax",
+            "label": "BgMax",
+            "manifest_pad": null,
+            "update_feed_url": "https://raw.githubusercontent.com/conseilgouz/updates_github/master/bgmax_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
