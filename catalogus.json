@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-07T13:28:43Z",
+    "bijgewerkt_op": "2026-08-07T13:28:56Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -72,7 +72,7 @@
             "sleutel": "module_mod_bgmax",
             "label": "BgMax",
             "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/conseilgouz/updates_github/master/bgmax_update.xml"
+            "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
