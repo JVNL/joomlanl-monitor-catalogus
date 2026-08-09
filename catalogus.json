@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-09T15:10:00Z",
+    "bijgewerkt_op": "2026-08-09T15:10:27Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -19,6 +19,12 @@
             "label": "Accordeon Menu CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
+        },
+        {
+            "sleutel": "component_com_acym",
+            "label": "Acym",
+            "manifest_pad": null,
+            "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
         },
         {
             "sleutel": "component_com_admintools",
