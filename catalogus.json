@@ -1,17 +1,17 @@
 {
-    "bijgewerkt_op": "2026-08-09T15:11:23Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-10T11:34:22Z",
+    "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
             "sleutel": "admintools",
             "label": "Admin Tools",
-            "manifest_pad": "manifests/packages/pkg_admintools.xml",
+            "manifest_pad": null,
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
         },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
-            "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
+            "manifest_pad": null,
             "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
         },
         {
@@ -39,10 +39,22 @@
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
         },
         {
+            "sleutel": "component_com_jshopping",
+            "label": "jshopping",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
+        },
+        {
             "sleutel": "component_com_pagebuilderck",
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
+        },
+        {
+            "sleutel": "component_com_rsform",
+            "label": "RSForm! Pro",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "component_com_slideshowck",
@@ -53,7 +65,7 @@
         {
             "sleutel": "jce",
             "label": "JCE",
-            "manifest_pad": "manifests/packages/pkg_jce.xml",
+            "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
         },
         {
@@ -67,6 +79,12 @@
             "label": "AcyMailing Module",
             "manifest_pad": null,
             "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
+        },
+        {
+            "sleutel": "module_mod_bgmax",
+            "label": "BgMax",
+            "manifest_pad": null,
+            "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
@@ -195,12 +213,6 @@
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
         },
         {
-            "sleutel": "plugin_jw_allvideos",
-            "label": "_jw_allvideos",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
-        },
-        {
             "sleutel": "plugin_ospamanot",
             "label": "plg_system_ospamanot",
             "manifest_pad": null,
@@ -211,6 +223,12 @@
             "label": "Responsive Tables",
             "manifest_pad": null,
             "update_feed_url": "https://web-eau.net/files/responsive-tables/responsive-tables.xml"
+        },
+        {
+            "sleutel": "plugin_rsform",
+            "label": "RSForm! Pro",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "template_nieuwe_akker",
