@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-10T12:42:23Z",
+    "bijgewerkt_op": "2026-08-11T15:08:38Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -217,12 +217,6 @@
             "label": "Responsive Tables",
             "manifest_pad": null,
             "update_feed_url": "https://web-eau.net/files/responsive-tables/responsive-tables.xml"
-        },
-        {
-            "sleutel": "plugin_rsform",
-            "label": "RSForm! Pro",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "template_nieuwe_akker",
