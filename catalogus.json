@@ -1,17 +1,17 @@
 {
-    "bijgewerkt_op": "2026-08-11T15:08:38Z",
-    "bijgewerkt_door": "YndiMonitor",
+    "bijgewerkt_op": "2026-08-12T14:13:20Z",
+    "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
             "sleutel": "admintools",
             "label": "Admin Tools",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_admintools.xml",
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
         },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
             "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
         },
         {
@@ -39,22 +39,10 @@
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
         },
         {
-            "sleutel": "component_com_jshopping",
-            "label": "jshopping",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
-        },
-        {
             "sleutel": "component_com_pagebuilderck",
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
-        },
-        {
-            "sleutel": "component_com_rsform",
-            "label": "RSForm! Pro",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "component_com_slideshowck",
@@ -65,7 +53,7 @@
         {
             "sleutel": "jce",
             "label": "JCE",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_jce.xml",
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
         },
         {
@@ -79,12 +67,6 @@
             "label": "AcyMailing Module",
             "manifest_pad": null,
             "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
-        },
-        {
-            "sleutel": "module_mod_bgmax",
-            "label": "BgMax",
-            "manifest_pad": null,
-            "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
@@ -153,6 +135,12 @@
             "update_feed_url": "https://www.jschmidt-systemberatung.de/downloads/pkg_jsvisit_counter_updates.xml"
         },
         {
+            "sleutel": "package_pkg_nl_nl",
+            "label": "Dutch (nl-NL) language pack",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomla.org/language/translationlist_6.xml"
+        },
+        {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
             "label": "nl-NL_com.phocagallery",
             "manifest_pad": null,
@@ -175,6 +163,12 @@
             "label": "Phoca Cart Package",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaCart/master/manifest.xml"
+        },
+        {
+            "sleutel": "package_pkg_pkg_jcfaq6",
+            "label": "pkg_jcfaq6",
+            "manifest_pad": null,
+            "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
         },
         {
             "sleutel": "package_pkg_regularlabsmanager",
@@ -205,6 +199,12 @@
             "label": "Contentplugin",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
+        },
+        {
+            "sleutel": "plugin_jw_allvideos",
+            "label": "_jw_allvideos",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
         },
         {
             "sleutel": "plugin_ospamanot",
