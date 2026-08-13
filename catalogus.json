@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-12T14:13:20Z",
+    "bijgewerkt_op": "2026-08-13T09:34:39Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -193,6 +193,12 @@
             "label": "JCE",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
+        },
+        {
+            "sleutel": "plugin_jcloginasuser",
+            "label": "PLG_SYSTEM_JCLOGINASUSER",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.joomconsultant.com/updates/jcloginasuser/updates.xml"
         },
         {
             "sleutel": "plugin_joodb",
