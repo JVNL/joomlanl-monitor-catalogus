@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-17T17:01:18Z",
+    "bijgewerkt_op": "2026-08-17T17:01:37Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -205,6 +205,12 @@
             "label": "AcyMailing Editor (+ 1 gerelateerde onderdelen)",
             "manifest_pad": null,
             "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
+        },
+        {
+            "sleutel": "plugin_astroidcaptcha",
+            "label": "AstroidCaptcha",
+            "manifest_pad": null,
+            "update_feed_url": "https://raw.githubusercontent.com/templaza/astroid-framework/master/astroid_framework.xml"
         },
         {
             "sleutel": "plugin_contentplugin",
