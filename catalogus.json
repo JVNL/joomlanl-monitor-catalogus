@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-17T16:55:59Z",
+    "bijgewerkt_op": "2026-08-17T16:58:25Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -43,6 +43,12 @@
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
+        },
+        {
+            "sleutel": "component_com_phocadownload",
+            "label": "com_phocadownload",
+            "manifest_pad": null,
+            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaDownload/master/manifest.xml"
         },
         {
             "sleutel": "component_com_phocamaps",
