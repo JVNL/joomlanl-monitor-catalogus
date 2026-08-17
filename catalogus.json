@@ -1,17 +1,17 @@
 {
-    "bijgewerkt_op": "2026-08-17T05:13:32Z",
-    "bijgewerkt_door": "YndiMonitor",
+    "bijgewerkt_op": "2026-08-17T16:55:59Z",
+    "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
             "sleutel": "admintools",
             "label": "Admin Tools",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_admintools.xml",
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
         },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
             "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
         },
         {
@@ -39,22 +39,16 @@
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
         },
         {
-            "sleutel": "component_com_jshopping",
-            "label": "jshopping",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
-        },
-        {
             "sleutel": "component_com_pagebuilderck",
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
         },
         {
-            "sleutel": "component_com_rsform",
-            "label": "RSForm! Pro",
+            "sleutel": "component_com_phocamaps",
+            "label": "com_phocamaps",
             "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
+            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaMaps/master/manifest.xml"
         },
         {
             "sleutel": "component_com_slideshowck",
@@ -65,7 +59,7 @@
         {
             "sleutel": "jce",
             "label": "JCE",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_jce.xml",
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
         },
         {
@@ -79,12 +73,6 @@
             "label": "AcyMailing Module",
             "manifest_pad": null,
             "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
-        },
-        {
-            "sleutel": "module_mod_bgmax",
-            "label": "BgMax",
-            "manifest_pad": null,
-            "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
@@ -151,6 +139,12 @@
             "label": "jsvisit Visitor Counter Package",
             "manifest_pad": null,
             "update_feed_url": "https://www.jschmidt-systemberatung.de/downloads/pkg_jsvisit_counter_updates.xml"
+        },
+        {
+            "sleutel": "package_pkg_nl_nl",
+            "label": "Dutch (nl-NL) language pack",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomla.org/language/translationlist_6.xml"
         },
         {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
