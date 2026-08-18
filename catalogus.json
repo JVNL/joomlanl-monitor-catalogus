@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-17T17:01:37Z",
+    "bijgewerkt_op": "2026-08-18T10:27:39Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -192,7 +192,7 @@
             "sleutel": "package_pkg_pkg_jcfaq6",
             "label": "pkg_jcfaq6",
             "manifest_pad": null,
-            "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
+            "update_feed_url": "https://www.joomconsultant.com/updates/jcfaq/updates.xml"
         },
         {
             "sleutel": "package_pkg_regularlabsmanager",
