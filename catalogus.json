@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-19T07:36:53Z",
-    "bijgewerkt_door": "YndiMonitor",
+    "bijgewerkt_op": "2026-08-19T16:50:08Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -115,6 +115,12 @@
             "label": "mod_joodb",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
+        },
+        {
+            "sleutel": "module_mod_kunenalatest",
+            "label": "mod_kunenalatest",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.kunena.org/7.0/list.xml"
         },
         {
             "sleutel": "module_mod_kunenasearch",
@@ -271,6 +277,12 @@
             "label": "Responsive Tables",
             "manifest_pad": null,
             "update_feed_url": "https://web-eau.net/files/responsive-tables/responsive-tables.xml"
+        },
+        {
+            "sleutel": "plugin_rsform",
+            "label": "RSForm! Pro",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "template_nieuwe_akker",
