@@ -1,17 +1,17 @@
 {
-    "bijgewerkt_op": "2026-08-20T16:56:25Z",
-    "bijgewerkt_door": "JvNL",
+    "bijgewerkt_op": "2026-08-20T17:04:54Z",
+    "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
             "sleutel": "admintools",
             "label": "Admin Tools",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_admintools.xml",
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
         },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
             "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
         },
         {
@@ -37,6 +37,12 @@
             "label": "jDownloads",
             "manifest_pad": null,
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
+        },
+        {
+            "sleutel": "component_com_joodb",
+            "label": "Contentplugin",
+            "manifest_pad": null,
+            "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
         },
         {
             "sleutel": "component_com_jshopping",
@@ -77,7 +83,7 @@
         {
             "sleutel": "jce",
             "label": "JCE",
-            "manifest_pad": null,
+            "manifest_pad": "manifests/packages/pkg_jce.xml",
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
         },
         {
@@ -115,6 +121,12 @@
             "label": "mod_joodb",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
+        },
+        {
+            "sleutel": "module_mod_kunenalatest",
+            "label": "mod_kunenalatest",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.kunena.org/7.0/list.xml"
         },
         {
             "sleutel": "module_mod_kunenasearch",
@@ -189,6 +201,12 @@
             "update_feed_url": "https://update.kunena.org/7.0/list.xml"
         },
         {
+            "sleutel": "package_pkg_nl_nl",
+            "label": "Dutch (nl-NL) language pack",
+            "manifest_pad": null,
+            "update_feed_url": "https://update.joomla.org/language/translationlist_6.xml"
+        },
+        {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
             "label": "nl-NL_com.phocagallery",
             "manifest_pad": null,
@@ -216,7 +234,7 @@
             "sleutel": "package_pkg_pkg_jcfaq6",
             "label": "pkg_jcfaq6",
             "manifest_pad": null,
-            "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
+            "update_feed_url": "https://www.joomconsultant.com/updates/jcfaq/updates.xml"
         },
         {
             "sleutel": "package_pkg_regularlabsmanager",
