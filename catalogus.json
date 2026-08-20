@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-19T16:50:08Z",
+    "bijgewerkt_op": "2026-08-20T16:45:07Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -115,12 +115,6 @@
             "label": "mod_joodb",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
-        },
-        {
-            "sleutel": "module_mod_kunenalatest",
-            "label": "mod_kunenalatest",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.kunena.org/7.0/list.xml"
         },
         {
             "sleutel": "module_mod_kunenasearch",
