@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-21T13:30:55Z",
+    "bijgewerkt_op": "2026-08-21T13:31:05Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -175,12 +175,6 @@
             "label": "jsvisit Visitor Counter Package",
             "manifest_pad": null,
             "update_feed_url": "https://www.jschmidt-systemberatung.de/downloads/pkg_jsvisit_counter_updates.xml"
-        },
-        {
-            "sleutel": "package_pkg_kunena",
-            "label": "pkg_kunena",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.kunena.org/7.0/list.xml"
         },
         {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
