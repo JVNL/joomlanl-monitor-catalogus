@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-21T08:25:03Z",
+    "bijgewerkt_op": "2026-08-21T08:26:02Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -163,6 +163,12 @@
             "label": "BaGallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
+        },
+        {
+            "sleutel": "package_pkg_dj_imageslider",
+            "label": "DJ-ImageSlider Package",
+            "manifest_pad": null,
+            "update_feed_url": "https://dj-extensions.com/index.php?option=com_ars&view=update&task=stream&format=xml&id=3"
         },
         {
             "sleutel": "package_pkg_eorisis_pixels",
