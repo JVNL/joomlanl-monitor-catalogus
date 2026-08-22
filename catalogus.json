@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-21T14:19:15Z",
+    "bijgewerkt_op": "2026-08-22T08:06:16Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -145,6 +145,12 @@
             "label": "Package AcyMailing",
             "manifest_pad": null,
             "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
+        },
+        {
+            "sleutel": "package_pkg_akeebabackup",
+            "label": "pkg_akeebabackup",
+            "manifest_pad": null,
+            "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebabackuppro.xml"
         },
         {
             "sleutel": "package_pkg_baforms",
