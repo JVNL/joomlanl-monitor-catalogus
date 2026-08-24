@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T17:27:12Z",
+    "bijgewerkt_op": "2026-08-24T17:27:37Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -25,12 +25,6 @@
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
-        },
-        {
-            "sleutel": "component_com_phocamaps",
-            "label": "com_phocamaps",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaMaps/master/manifest.xml"
         },
         {
             "sleutel": "component_com_rsform",
