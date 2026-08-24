@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T07:52:54Z",
+    "bijgewerkt_op": "2026-08-24T08:03:05Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -49,6 +49,12 @@
             "label": "jshopping",
             "manifest_pad": null,
             "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
+        },
+        {
+            "sleutel": "component_com_osmap",
+            "label": "COM_OSMAP",
+            "manifest_pad": null,
+            "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/com_osmap"
         },
         {
             "sleutel": "component_com_pagebuilderck",
