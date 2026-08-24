@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T14:10:12Z",
+    "bijgewerkt_op": "2026-08-24T15:46:49Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -139,6 +139,12 @@
             "label": "mod_kunenasearch",
             "manifest_pad": null,
             "update_feed_url": "https://update.kunena.org/addons/list.xml"
+        },
+        {
+            "sleutel": "module_mod_openinghours",
+            "label": "MOD_OPENINGHOURS",
+            "manifest_pad": null,
+            "update_feed_url": "https://www.joomill-extensions.com/index.php?option=com_ochsubscriptions&amp;view=updater&amp;format=xml&amp;cat=5"
         },
         {
             "sleutel": "module_mod_ruxin_news",
