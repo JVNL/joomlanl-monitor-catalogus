@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T08:03:05Z",
+    "bijgewerkt_op": "2026-08-24T14:10:12Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -121,6 +121,12 @@
             "label": "BgMax",
             "manifest_pad": null,
             "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
+        },
+        {
+            "sleutel": "module_mod_cbbirthday",
+            "label": "CB Birthday for Community Builder",
+            "manifest_pad": null,
+            "update_feed_url": "https://michal.prochaczek.pl/joomla/upgrade/mod_cbbirthday_update.xml"
         },
         {
             "sleutel": "module_mod_joodb",
