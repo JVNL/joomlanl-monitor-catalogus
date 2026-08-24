@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T17:25:55Z",
+    "bijgewerkt_op": "2026-08-24T17:26:08Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -73,12 +73,6 @@
             "label": "GeoIP",
             "manifest_pad": null,
             "update_feed_url": "https://download.regularlabs.com/updates.xml?e=geoip&type=.xml"
-        },
-        {
-            "sleutel": "module_mod_acymailing",
-            "label": "AcyMailing Module",
-            "manifest_pad": null,
-            "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
         },
         {
             "sleutel": "module_mod_astroid_clear_cache",
