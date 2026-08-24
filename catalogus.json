@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-24T17:25:42Z",
+    "bijgewerkt_op": "2026-08-24T17:25:55Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
-        {
-            "sleutel": "admintools",
-            "label": "Admin Tools",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
-        },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
