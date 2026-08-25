@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:22:57Z",
+    "bijgewerkt_op": "2026-08-25T08:23:10Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -79,12 +79,6 @@
             "label": "nl-NL_com.phocagallery",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
-        },
-        {
-            "sleutel": "package_pkg_phocacart",
-            "label": "Phoca Cart Package",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaCart/master/manifest.xml"
         },
         {
             "sleutel": "package_pkg_pkg_jcfaq6",
