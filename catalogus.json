@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:33:07Z",
+    "bijgewerkt_op": "2026-08-25T14:33:15Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -181,12 +181,6 @@
             "label": "RSForm! Pro",
             "manifest_pad": null,
             "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
-        },
-        {
-            "sleutel": "template_vabs",
-            "label": "t4_bs5_blank",
-            "manifest_pad": null,
-            "update_feed_url": "http://update.joomlart.com/service/tracking/j31/tpl_t4_bs5_blank.xml"
         },
         {
             "sleutel": "template_zmcd",
