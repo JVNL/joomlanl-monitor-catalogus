@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:28:38Z",
+    "bijgewerkt_op": "2026-08-25T14:28:48Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -43,12 +43,6 @@
             "label": "COM_OSMAP",
             "manifest_pad": null,
             "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/com_osmap"
-        },
-        {
-            "sleutel": "component_com_pagebuilderck",
-            "label": "Pagebuilder CK",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
         },
         {
             "sleutel": "component_com_rsform",
