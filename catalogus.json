@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:22:03Z",
+    "bijgewerkt_op": "2026-08-25T08:22:12Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -85,12 +85,6 @@
             "label": "Gallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_jsvisit_counter",
-            "label": "jsvisit Visitor Counter Package",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.jschmidt-systemberatung.de/downloads/pkg_jsvisit_counter_updates.xml"
         },
         {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
