@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-24T17:45:47Z",
+    "bijgewerkt_op": "2026-08-25T05:20:43Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -25,12 +25,6 @@
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
-        },
-        {
-            "sleutel": "component_com_rsform",
-            "label": "RSForm! Pro",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "component_com_slideshowck",
@@ -67,12 +61,6 @@
             "label": "mod_joodb",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
-        },
-        {
-            "sleutel": "module_mod_kunenasearch",
-            "label": "mod_kunenasearch",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.kunena.org/addons/list.xml"
         },
         {
             "sleutel": "module_mod_ruxin_news",
@@ -151,12 +139,6 @@
             "label": "pkg_jcfaq6",
             "manifest_pad": null,
             "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
-        },
-        {
-            "sleutel": "package_pkg_regularlabsmanager",
-            "label": "PKG_REGULARLABSMANAGER",
-            "manifest_pad": null,
-            "update_feed_url": "https://download.regularlabs.com/updates.xml?e=extensionmanager&type=.xml"
         },
         {
             "sleutel": "plugin_astroidcaptcha",
