@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:21:30Z",
+    "bijgewerkt_op": "2026-08-25T08:21:40Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -7,12 +7,6 @@
             "label": "jDownloads",
             "manifest_pad": null,
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
-        },
-        {
-            "sleutel": "component_com_jshopping",
-            "label": "jshopping",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
         },
         {
             "sleutel": "component_com_pagebuilderck",
