@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:31:49Z",
+    "bijgewerkt_op": "2026-08-25T14:32:00Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -43,12 +43,6 @@
             "label": "RSForm! Pro",
             "manifest_pad": null,
             "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
-        },
-        {
-            "sleutel": "component_com_slideshowck",
-            "label": "Slideshow CK",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.joomlack.fr/slideshowck_light_update.xml"
         },
         {
             "sleutel": "jce",
