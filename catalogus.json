@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:32:21Z",
+    "bijgewerkt_op": "2026-08-25T14:32:31Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -115,12 +115,6 @@
             "label": "PKG_CACHECLEANER",
             "manifest_pad": null,
             "update_feed_url": "https://download.regularlabs.com/updates.xml?e=cachecleaner&type=.xml"
-        },
-        {
-            "sleutel": "package_pkg_dj_imageslider",
-            "label": "DJ-ImageSlider Package",
-            "manifest_pad": null,
-            "update_feed_url": "https://dj-extensions.com/index.php?option=com_ars&view=update&task=stream&format=xml&id=3"
         },
         {
             "sleutel": "package_pkg_eorisis_pixels",
