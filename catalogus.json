@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:20:59Z",
+    "bijgewerkt_op": "2026-08-25T08:21:08Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
-        {
-            "sleutel": "component_com_accordeonmenuck",
-            "label": "Accordeon Menu CK",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
-        },
         {
             "sleutel": "component_com_jdownloads",
             "label": "jDownloads",
