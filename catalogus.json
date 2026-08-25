@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:39:40Z",
+    "bijgewerkt_op": "2026-08-25T13:39:49Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -283,12 +283,6 @@
             "label": "Contentplugin",
             "manifest_pad": null,
             "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
-        },
-        {
-            "sleutel": "plugin_jw_allvideos",
-            "label": "_jw_allvideos",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
         },
         {
             "sleutel": "plugin_responsive_tables",
