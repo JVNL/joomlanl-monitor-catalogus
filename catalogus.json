@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:37:24Z",
+    "bijgewerkt_op": "2026-08-25T14:41:22Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
-        {
-            "sleutel": "admintools",
-            "label": "Admin Tools",
-            "manifest_pad": "manifests/packages/pkg_admintools.xml",
-            "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
-        },
         {
             "sleutel": "akeeba",
             "label": "Akeeba Backup",
