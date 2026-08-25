@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:32:43Z",
+    "bijgewerkt_op": "2026-08-25T14:32:54Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -103,12 +103,6 @@
             "label": "BaForms",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/forms/joomla_forms_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_cachecleaner",
-            "label": "PKG_CACHECLEANER",
-            "manifest_pad": null,
-            "update_feed_url": "https://download.regularlabs.com/updates.xml?e=cachecleaner&type=.xml"
         },
         {
             "sleutel": "package_pkg_eorisis_pixels",
