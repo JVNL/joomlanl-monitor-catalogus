@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:20:21Z",
+    "bijgewerkt_op": "2026-08-25T08:20:26Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -7,12 +7,6 @@
             "label": "Accordeon Menu CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
-        },
-        {
-            "sleutel": "component_com_admintools",
-            "label": "Admin Tools",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
         },
         {
             "sleutel": "component_com_jdownloads",
