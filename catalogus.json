@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:23:10Z",
+    "bijgewerkt_op": "2026-08-25T08:23:20Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -73,12 +73,6 @@
             "label": "Gallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl_com_phocagallery",
-            "label": "nl-NL_com.phocagallery",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
         },
         {
             "sleutel": "package_pkg_pkg_jcfaq6",
