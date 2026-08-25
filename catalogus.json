@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:22:41Z",
+    "bijgewerkt_op": "2026-08-25T08:22:57Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -49,12 +49,6 @@
             "label": "Slideshow CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/slideshowck_light_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_acymailing",
-            "label": "Package AcyMailing",
-            "manifest_pad": null,
-            "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
         },
         {
             "sleutel": "package_pkg_baforms",
