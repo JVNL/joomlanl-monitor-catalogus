@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:21:56Z",
+    "bijgewerkt_op": "2026-08-25T08:22:03Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
-        {
-            "sleutel": "component_com_jdownloads",
-            "label": "jDownloads",
-            "manifest_pad": null,
-            "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
-        },
         {
             "sleutel": "component_com_pagebuilderck",
             "label": "Pagebuilder CK",
