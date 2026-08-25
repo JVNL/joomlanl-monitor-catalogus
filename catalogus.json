@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T05:20:43Z",
+    "bijgewerkt_op": "2026-08-25T06:19:38Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -15,12 +15,6 @@
             "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
         },
         {
-            "sleutel": "component_com_jshopping",
-            "label": "jshopping",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.webdesigner-profi.de/joomla-webdesign/update/shop.xml"
-        },
-        {
             "sleutel": "component_com_pagebuilderck",
             "label": "Pagebuilder CK",
             "manifest_pad": null,
@@ -31,12 +25,6 @@
             "label": "Slideshow CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/slideshowck_light_update.xml"
-        },
-        {
-            "sleutel": "library_geoip",
-            "label": "GeoIP",
-            "manifest_pad": null,
-            "update_feed_url": "https://download.regularlabs.com/updates.xml?e=geoip&type=.xml"
         },
         {
             "sleutel": "module_mod_astroid_clear_cache",
@@ -57,12 +45,6 @@
             "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
         },
         {
-            "sleutel": "module_mod_joodb",
-            "label": "mod_joodb",
-            "manifest_pad": null,
-            "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
-        },
-        {
             "sleutel": "module_mod_ruxin_news",
             "label": "Ruxin News",
             "manifest_pad": null,
@@ -73,12 +55,6 @@
             "label": "Slideshow CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/slideshowck_light_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_acymailing",
-            "label": "Package AcyMailing",
-            "manifest_pad": null,
-            "update_feed_url": "https://api.acymailing.com/public/updatexml/component?extension=acymailing&cms=joomla&version=latest&level=enterprise&type=package"
         },
         {
             "sleutel": "package_pkg_baforms",
@@ -93,12 +69,6 @@
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
         },
         {
-            "sleutel": "package_pkg_eorisis_pixels",
-            "label": "Eorisis Pixels",
-            "manifest_pad": null,
-            "update_feed_url": "https://updates.eorisis.net/pixels/free/extension.xml"
-        },
-        {
             "sleutel": "package_pkg_eventgallery_full",
             "label": "Package",
             "manifest_pad": null,
@@ -109,24 +79,6 @@
             "label": "Gallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl_com_phocagallery",
-            "label": "nl-NL_com.phocagallery",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl_plg_content_phocagallery",
-            "label": "nl-NL.plg_plg_content_phocagallery",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl_plg_content_phocagalleryslidesho",
-            "label": "nl-NL.plg_content_phocagalleryslideshow",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
         },
         {
             "sleutel": "package_pkg_phocacart",
@@ -151,18 +103,6 @@
             "label": "PLG_SYSTEM_JCLOGINASUSER",
             "manifest_pad": null,
             "update_feed_url": "https://www.joomconsultant.com/updates/jcloginasuser/updates.xml"
-        },
-        {
-            "sleutel": "plugin_jw_allvideos",
-            "label": "_jw_allvideos",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
-        },
-        {
-            "sleutel": "plugin_ospamanot",
-            "label": "plg_system_ospamanot",
-            "manifest_pad": null,
-            "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/plg_system_ospamanot"
         },
         {
             "sleutel": "plugin_responsive_tables",
