@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:36:50Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:36:53Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -61,12 +61,6 @@
             "label": "com_phocadownload",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaDownload/master/manifest.xml"
-        },
-        {
-            "sleutel": "component_com_phocamaps",
-            "label": "com_phocamaps",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaMaps/master/manifest.xml"
         },
         {
             "sleutel": "component_com_rsform",
