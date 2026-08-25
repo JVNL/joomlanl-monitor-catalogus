@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:08:06Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:08:50Z",
+    "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -277,6 +277,12 @@
             "label": "PKG_REGULARLABSMANAGER",
             "manifest_pad": null,
             "update_feed_url": "https://download.regularlabs.com/updates.xml?e=extensionmanager&type=.xml"
+        },
+        {
+            "sleutel": "plugin_acffacebookvideo",
+            "label": "ACF_FACEBOOKVIDEO",
+            "manifest_pad": null,
+            "update_feed_url": "https://voorbeeld.nl/acf_facebook.xml"
         },
         {
             "sleutel": "plugin_acyeditor",
