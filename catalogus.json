@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:28:20Z",
+    "bijgewerkt_op": "2026-08-25T14:28:38Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -175,12 +175,6 @@
             "label": "Package",
             "manifest_pad": null,
             "update_feed_url": "https://www.svenbluege.de/index.php?option=com_ars&view=update&task=stream&format=xml&id=2"
-        },
-        {
-            "sleutel": "package_pkg_gallery",
-            "label": "Gallery",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
         },
         {
             "sleutel": "package_pkg_jsvisit_counter",
