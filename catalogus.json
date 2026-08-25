@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:23:41Z",
+    "bijgewerkt_op": "2026-08-25T08:23:59Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -91,12 +91,6 @@
             "label": "_jw_allvideos",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
-        },
-        {
-            "sleutel": "plugin_ospamanot",
-            "label": "plg_system_ospamanot",
-            "manifest_pad": null,
-            "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/plg_system_ospamanot"
         },
         {
             "sleutel": "plugin_responsive_tables",
