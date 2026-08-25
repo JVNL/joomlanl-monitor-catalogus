@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:21:41Z",
+    "bijgewerkt_op": "2026-08-25T08:21:56Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -139,12 +139,6 @@
             "label": "AstroidCaptcha",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/templaza/astroid-framework/master/astroid_framework.xml"
-        },
-        {
-            "sleutel": "plugin_jce",
-            "label": "JCE",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
         },
         {
             "sleutel": "plugin_jcloginasuser",
