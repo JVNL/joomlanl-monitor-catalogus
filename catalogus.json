@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:37:26Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:37:30Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -25,12 +25,6 @@
             "label": "Admin Tools",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
-        },
-        {
-            "sleutel": "component_com_jdownloads",
-            "label": "jDownloads",
-            "manifest_pad": null,
-            "update_feed_url": "http://www.jdownloads.com/updates/4.0/final/jdownloads-update.xml"
         },
         {
             "sleutel": "component_com_joodb",
