@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T07:23:07Z",
+    "bijgewerkt_op": "2026-08-25T07:23:16Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -79,12 +79,6 @@
             "label": "AstroidCaptcha",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/templaza/astroid-framework/master/astroid_framework.xml"
-        },
-        {
-            "sleutel": "plugin_jcloginasuser",
-            "label": "PLG_SYSTEM_JCLOGINASUSER",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.joomconsultant.com/updates/jcloginasuser/updates.xml"
         },
         {
             "sleutel": "plugin_responsive_tables",
