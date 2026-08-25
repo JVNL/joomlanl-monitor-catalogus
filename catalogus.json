@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:38:58Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:39:03Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -235,12 +235,6 @@
             "label": "pkg_jcfaq6",
             "manifest_pad": null,
             "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
-        },
-        {
-            "sleutel": "package_pkg_regularlabsmanager",
-            "label": "PKG_REGULARLABSMANAGER",
-            "manifest_pad": null,
-            "update_feed_url": "https://download.regularlabs.com/updates.xml?e=extensionmanager&type=.xml"
         },
         {
             "sleutel": "plugin_acffacebookvideo",
