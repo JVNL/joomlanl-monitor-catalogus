@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:20:14Z",
+    "bijgewerkt_op": "2026-08-25T08:20:21Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
-        {
-            "sleutel": "akeeba",
-            "label": "Akeeba Backup",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
-        },
         {
             "sleutel": "component_com_accordeonmenuck",
             "label": "Accordeon Menu CK",
