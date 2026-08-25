@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:22:20Z",
+    "bijgewerkt_op": "2026-08-25T08:22:33Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -89,12 +89,6 @@
         {
             "sleutel": "package_pkg_nl_nl_plg_content_phocagallery",
             "label": "nl-NL.plg_plg_content_phocagallery",
-            "manifest_pad": null,
-            "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl_plg_content_phocagalleryslidesho",
-            "label": "nl-NL.plg_content_phocagalleryslideshow",
             "manifest_pad": null,
             "update_feed_url": "https://raw.githubusercontent.com/PhocaCz/PhocaGallery/master/manifest.xml"
         },
