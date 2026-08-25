@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:31:11Z",
+    "bijgewerkt_op": "2026-08-25T14:31:21Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -193,12 +193,6 @@
             "label": "JCE",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
-        },
-        {
-            "sleutel": "plugin_jcemediabox",
-            "label": "plg_system_jcemediabox",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/mediabox/plg_system_jcemediabox.xml"
         },
         {
             "sleutel": "plugin_joodb",
