@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:20:42Z",
+    "bijgewerkt_op": "2026-08-25T08:20:49Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -187,12 +187,6 @@
             "label": "PLG_SYSTEM_JCLOGINASUSER",
             "manifest_pad": null,
             "update_feed_url": "https://www.joomconsultant.com/updates/jcloginasuser/updates.xml"
-        },
-        {
-            "sleutel": "plugin_joodb",
-            "label": "Contentplugin",
-            "manifest_pad": null,
-            "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
         },
         {
             "sleutel": "plugin_jw_allvideos",
