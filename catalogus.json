@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:39:34Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:39:40Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -289,12 +289,6 @@
             "label": "_jw_allvideos",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlaworks.org/updates/allvideos.xml"
-        },
-        {
-            "sleutel": "plugin_ospamanot",
-            "label": "plg_system_ospamanot",
-            "manifest_pad": null,
-            "update_feed_url": "https://deploy.ostraining.com/client/update/free/stable/plg_system_ospamanot"
         },
         {
             "sleutel": "plugin_responsive_tables",
