@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:22:12Z",
+    "bijgewerkt_op": "2026-08-25T08:22:20Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -37,12 +37,6 @@
             "label": "BgMax",
             "manifest_pad": null,
             "update_feed_url": "https://lomart.fr/files/bgmax/bgmax_update.xml"
-        },
-        {
-            "sleutel": "module_mod_joodb",
-            "label": "mod_joodb",
-            "manifest_pad": null,
-            "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
         },
         {
             "sleutel": "module_mod_ruxin_news",
