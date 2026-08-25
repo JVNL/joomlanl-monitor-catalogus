@@ -1,6 +1,6 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:38:42Z",
-    "bijgewerkt_door": "CompactWebMonitor",
+    "bijgewerkt_op": "2026-08-25T13:38:49Z",
+    "bijgewerkt_door": "JvNL",
     "extensies": [
         {
             "sleutel": "admintools",
@@ -199,12 +199,6 @@
             "label": "Gallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_jce",
-            "label": "PKG_JCE",
-            "manifest_pad": null,
-            "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce_pro.xml"
         },
         {
             "sleutel": "package_pkg_jsvisit_counter",
