@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:36:53Z",
+    "bijgewerkt_op": "2026-08-25T13:37:04Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -223,12 +223,6 @@
             "label": "jsvisit Visitor Counter Package",
             "manifest_pad": null,
             "update_feed_url": "https://www.jschmidt-systemberatung.de/downloads/pkg_jsvisit_counter_updates.xml"
-        },
-        {
-            "sleutel": "package_pkg_nl_nl",
-            "label": "Dutch (nl-NL) language pack",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.joomla.org/language/translationlist_6.xml"
         },
         {
             "sleutel": "package_pkg_nl_nl_com_phocagallery",
