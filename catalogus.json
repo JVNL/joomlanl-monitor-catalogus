@@ -1,13 +1,7 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:41:22Z",
+    "bijgewerkt_op": "2026-08-25T14:42:11Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
-        {
-            "sleutel": "akeeba",
-            "label": "Akeeba Backup",
-            "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
-            "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
-        },
         {
             "sleutel": "component_com_acym",
             "label": "Acym",
