@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:20:49Z",
+    "bijgewerkt_op": "2026-08-25T08:20:59Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -103,12 +103,6 @@
             "label": "BaGallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_eorisis_pixels",
-            "label": "Eorisis Pixels",
-            "manifest_pad": null,
-            "update_feed_url": "https://updates.eorisis.net/pixels/free/extension.xml"
         },
         {
             "sleutel": "package_pkg_eventgallery_full",
