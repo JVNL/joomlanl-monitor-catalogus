@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:21:08Z",
+    "bijgewerkt_op": "2026-08-25T08:21:15Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -37,12 +37,6 @@
             "label": "JCE",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.joomlacontenteditor.net/updates/xml/editor/pkg_jce.xml"
-        },
-        {
-            "sleutel": "library_geoip",
-            "label": "GeoIP",
-            "manifest_pad": null,
-            "update_feed_url": "https://download.regularlabs.com/updates.xml?e=geoip&type=.xml"
         },
         {
             "sleutel": "module_mod_astroid_clear_cache",
