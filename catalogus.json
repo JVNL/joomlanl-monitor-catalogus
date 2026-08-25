@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:21:15Z",
+    "bijgewerkt_op": "2026-08-25T08:21:23Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -103,12 +103,6 @@
             "label": "Gallery",
             "manifest_pad": null,
             "update_feed_url": "https://www.balbooa.com/updates/gallery/joomla_gallery_update.xml"
-        },
-        {
-            "sleutel": "package_pkg_icagenda",
-            "label": "iCagenda",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.joomlic.com/icupdates/icagendapro.xml"
         },
         {
             "sleutel": "package_pkg_jsvisit_counter",
