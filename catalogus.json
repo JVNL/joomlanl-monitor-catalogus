@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T08:24:10Z",
+    "bijgewerkt_op": "2026-08-25T08:24:18Z",
     "bijgewerkt_door": "JvNL",
     "extensies": [
         {
@@ -7,12 +7,6 @@
             "label": "Pagebuilder CK",
             "manifest_pad": null,
             "update_feed_url": "https://update.joomlack.fr/pagebuilderck_pro_update.xml"
-        },
-        {
-            "sleutel": "component_com_rsform",
-            "label": "RSForm! Pro",
-            "manifest_pad": null,
-            "update_feed_url": "https://www.rsjoomla.com/updates/com_rsform/Component/com_rsform.xml"
         },
         {
             "sleutel": "component_com_slideshowck",
