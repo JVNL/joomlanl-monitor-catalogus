@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:50:43Z",
+    "bijgewerkt_op": "2026-08-25T14:09:09Z",
     "bijgewerkt_door": "YndiMonitor",
     "extensies": [
         {
@@ -235,12 +235,6 @@
             "label": "pkg_jcfaq6",
             "manifest_pad": null,
             "update_feed_url": "https://nocdn.component-creator.com/index.php?task=builder.preupdatecheckhook&option=com_combuilder&component=NzY1OTctMjE1NDI0"
-        },
-        {
-            "sleutel": "plugin_acffacebookvideo",
-            "label": "ACF_FACEBOOKVIDEO",
-            "manifest_pad": null,
-            "update_feed_url": "https://voorbeeld.nl/acf_facebook.xml"
         },
         {
             "sleutel": "plugin_acyeditor",
