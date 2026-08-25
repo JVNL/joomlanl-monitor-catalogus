@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T13:31:20Z",
+    "bijgewerkt_op": "2026-08-25T13:35:31Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -13,12 +13,6 @@
             "label": "Akeeba Backup",
             "manifest_pad": "manifests/packages/pkg_akeebabackup.xml",
             "update_feed_url": "https://cdn.akeeba.com/updates/pkgakeebacore.xml"
-        },
-        {
-            "sleutel": "component_com_accordeonmenuck",
-            "label": "Accordeon Menu CK",
-            "manifest_pad": null,
-            "update_feed_url": "https://update.joomlack.fr/accordeonmenuck_pro_update.xml"
         },
         {
             "sleutel": "component_com_acym",
