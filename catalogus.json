@@ -1,5 +1,5 @@
 {
-    "bijgewerkt_op": "2026-08-25T14:37:09Z",
+    "bijgewerkt_op": "2026-08-25T14:37:24Z",
     "bijgewerkt_door": "CompactWebMonitor",
     "extensies": [
         {
@@ -25,12 +25,6 @@
             "label": "Admin Tools",
             "manifest_pad": null,
             "update_feed_url": "https://cdn.akeebabackup.com/updates/pkgadmintoolspro.xml"
-        },
-        {
-            "sleutel": "component_com_joodb",
-            "label": "Contentplugin",
-            "manifest_pad": null,
-            "update_feed_url": "https://joodb.feenders.de/update.html?version=5&format=xml"
         },
         {
             "sleutel": "component_com_jshopping",
